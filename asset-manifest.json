@@ -1,14 +1,14 @@
 {
-  "main.css": "/gitpage-test/static/css/main.a69c05fe.chunk.css",
-  "main.js": "/gitpage-test/static/js/main.c6ef3801.chunk.js",
-  "main.js.map": "/gitpage-test/static/js/main.c6ef3801.chunk.js.map",
-  "runtime~main.js": "/gitpage-test/static/js/runtime~main.e6ecfeee.js",
-  "runtime~main.js.map": "/gitpage-test/static/js/runtime~main.e6ecfeee.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/gitpage-test/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/gitpage-test/static/js/2.8f71a45e.chunk.js.map",
-  "index.html": "/gitpage-test/index.html",
-  "precache-manifest.374245f3437a32b168f45e635d548a97.js": "/gitpage-test/precache-manifest.374245f3437a32b168f45e635d548a97.js",
-  "service-worker.js": "/gitpage-test/service-worker.js",
-  "static/css/main.a69c05fe.chunk.css.map": "/gitpage-test/static/css/main.a69c05fe.chunk.css.map",
-  "static/media/logo.svg": "/gitpage-test/static/media/logo.5d5d9eef.svg"
+  "main.css": "https://mair.github.io/gitpage-test/static/css/main.a69c05fe.chunk.css",
+  "main.js": "https://mair.github.io/gitpage-test/static/js/main.fc1f233c.chunk.js",
+  "main.js.map": "https://mair.github.io/gitpage-test/static/js/main.fc1f233c.chunk.js.map",
+  "runtime~main.js": "https://mair.github.io/gitpage-test/static/js/runtime~main.a727dad8.js",
+  "runtime~main.js.map": "https://mair.github.io/gitpage-test/static/js/runtime~main.a727dad8.js.map",
+  "static/js/2.8f71a45e.chunk.js": "https://mair.github.io/gitpage-test/static/js/2.8f71a45e.chunk.js",
+  "static/js/2.8f71a45e.chunk.js.map": "https://mair.github.io/gitpage-test/static/js/2.8f71a45e.chunk.js.map",
+  "index.html": "https://mair.github.io/gitpage-test/index.html",
+  "precache-manifest.ebd606f2207a8d7f65d68d8693990ee4.js": "https://mair.github.io/gitpage-test/precache-manifest.ebd606f2207a8d7f65d68d8693990ee4.js",
+  "service-worker.js": "https://mair.github.io/gitpage-test/service-worker.js",
+  "static/css/main.a69c05fe.chunk.css.map": "https://mair.github.io/gitpage-test/static/css/main.a69c05fe.chunk.css.map",
+  "static/media/logo.svg": "https://mair.github.io/gitpage-test/static/media/logo.5d5d9eef.svg"
 }
